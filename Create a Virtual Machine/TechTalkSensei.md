@@ -9,11 +9,11 @@ This guide is designed to enhance your learning experience during this lab. Plea
 ## 💻 **Execute in Cloud Shell**  
 Run the following commands in **Cloud Shell**:  
 ```bash
-curl -LO raw.githubusercontent.com/Supratik-WebDev/Qwiklab_Solutions/refs/heads/main/Create%20a%20Virtual%20Machine/techtalk%20sensei.sh
+curl -LO raw.githubusercontent.com/Supratik-WebDev/Qwiklab_Solutions/refs/heads/main/Create%20a%20Virtual%20Machine/techtalksensei.sh
 
-sudo chmod +x techtalk sensei.sh
+sudo chmod +x techtalksensei.sh
 
-./techtalk sensei.sh
+./techtalksensei.sh
 ```  
 ---
 

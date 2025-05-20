@@ -22,6 +22,5 @@ sudo chmod +x arcadecrew.sh
 ---
 
 ## 🤝 **Join the TechTalk Sensei Community!**  
-
-- **WhatsApp Group:** [Join Here](https://chat.whatsapp.com/KkNEauOhBQXHdVcmqIlv9F)  
-- **YouTube Channel:** [![Subscribe to TechTalk Sensei](https://img.shields.io/badge/YouTube-Arcade%20Crew-red?style=flat&logo=youtube)]([https://www.youtube.com/@Arcade61432?sub_confirmation=1](https://youtube.com/@techtalksensei?si=RsoYG1GKslla4B78))  
+  
+- **YouTube Channel:** [Subscribe to TechTalk Sensei]([https://www.youtube.com/@Arcade61432?sub_confirmation=1](https://youtube.com/@techtalksensei?si=RsoYG1GKslla4B78))  

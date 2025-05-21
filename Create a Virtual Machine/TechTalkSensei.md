@@ -11,7 +11,7 @@ Run the following commands in **Cloud Shell**:
 ```bash
 curl -LO "https://raw.githubusercontent.com/Supratik-WebDev/Qwiklab_Solutions/refs/heads/main/Create%20a%20Virtual%20Machine/techtalksensei.sh"
 
-sudo chmod +x techtalksensei.sh
+chmod +x techtalksensei.sh
 
 ./techtalksensei.sh
 ```  
